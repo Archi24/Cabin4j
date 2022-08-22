@@ -110,7 +110,7 @@ int main()
      int t;
 
           string s="2 + 3 * 5 + ( 2 ^ 3 )";
-          //cin>>s;
+         
           evaluate(s);
 
      return 0;
